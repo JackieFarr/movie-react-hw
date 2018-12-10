@@ -12,3 +12,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+.movie-box {
+  width: 50%;
+  color: #004E98;
+  background-color: #EBEBEB;
+  border: 2px solid #FF6700;
+  margin: auto;
+}
+
+.movie-title {
+  color: #3A6EA5;
+  text-decoration: none;
+}
+
+.movie-title:hover {
+    background-color: #FF6700;
+    width: auto;
+    color: white;
+    text-decoration: none;
+}
+
+.see-more-link {
+  width: 80%;
+  background-color: white;
+  color: #FF6700;
+  border: 2px solid #FF6700;
+}
